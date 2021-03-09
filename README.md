@@ -2,11 +2,11 @@ DVZ Shoutbox 2.3.3
 by Tomasz 'Devilshakerz' Mlynski [devilshakerz.com]
 Copyright (C) 2014-2019
 
-========= LICENSE ===================================================
+## LICENSE ##
 released under Creative Commons BY-NC-SA 4.0 license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/ */
 
-========= INSTALLATION ==============================================
+## INSTALLATION ##
 1. upload the package from "UPLOAD" to your MyBB root directory
 2. add CSS from STYLES.txt to your board stylesheets (e.g. global.css)
 3. add {$dvz_shoutbox} to your index template
